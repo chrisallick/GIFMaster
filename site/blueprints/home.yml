@@ -1,0 +1,12 @@
+title: Home
+pages: false
+fields:
+  gifs:
+    label: GIFs
+    type: structure
+    entry: >
+      {{image}}
+    fields:
+      image:
+        label: Image
+        type: image

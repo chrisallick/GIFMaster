@@ -1,0 +1,12 @@
+Gifs: 
+
+- 
+  image: giphy-1.gif
+- 
+  image: giphy.gif
+- 
+  image: giphy-2.gif
+
+----
+
+Title: Home
